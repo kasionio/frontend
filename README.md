@@ -15,7 +15,7 @@ For the 2020-2021 course, the preparatory stage starts 12.10.2020 and ends in De
 
 ### Admission
 
-To join the main course track, the applicants are required to finish tasks listed in [Stage 0. Self-Study](contents.md#stage-0-self-study) part of the course and to pass successfully the interview with mentors. We highly encourage you to be active in your study process and help other students: answer questions in chants, review pull-requests, report possible errors and suggest solutions. Don’t hesitate to ask questions and let mentors know if you are stuck and need help. Your progress is in your hands.
+To join the main course track, the applicants are required to finish tasks listed in [Stage 0. Self-Study](contents.md#stage-0-self-study) part of the course and to pass successfully the interview with mentors. We highly encourage you to be active in your study process and help other students: answer questions in chats, review pull-requests, report possible errors and suggest solutions. Don’t hesitate to ask questions and let mentors know if you are stuck and need help. Your progress is in your hands.
 
 ### What you will learn
 
